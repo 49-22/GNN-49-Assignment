@@ -1,0 +1,16 @@
+{
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "notebook.defaultFormatter": "ms-python.black-formatter",
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.analysis.inlayHints.callArgumentNames": "all",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.pytestParameters": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.languageServerMode": "full",
+    "python.analysis.supportDocstringTemplate": true,
+    "python.analysis.supportRestructuredText": true,
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.typeEvaluation.enableReachabilityAnalysis": true,
+    "python.analysis.userFileIndexingLimit": 20000
+}
